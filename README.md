@@ -37,14 +37,14 @@ alt="Java">
 </ul>
 </li>
 <li>
-<h3>  frameworks &amp; libraries </h3>
+<h3>  frameworks &amp; librerías </h3>
 <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
 <img src="https://img.shields.io/badge/Room-FFC107?style=for-the-badge&logo=java&logoColor=white" alt="Room">
 <img src="https://img.shields.io/badge/Glide-00C853?style=for-the-badge&logo=google&logoColor=white" alt="Glide">
 </li>
 <li>
-<h3> tools </h3>
+<h3> herramientas </h3>
   <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
