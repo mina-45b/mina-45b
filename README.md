@@ -54,10 +54,6 @@ alt="Java">
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 <ul>
-<li>
-<h4> Actualmente aprendo </h4>
-<img src="https://img.shields.io/badge/Kotlin-hotpink.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="kotlin">
-</li>
 </ul>
 </li>
 </ul>
@@ -65,5 +61,5 @@ alt="Java">
 
 --->
 <hr>
-<p><a href="https://github.com/henrymedeiros">username</a>
+<p><a href="https://github.com/mina-45b">username</a>
 Last Edited on: 05/05/2023 format.</p></div> 
