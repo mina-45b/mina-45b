@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
 <img align="right" width="400" alt="coding girl" src="https://images4.alphacoders.com/135/1358530.jpeg">
-<h2> // Sobre mi </h2>
+<h1> Sobre mi (^･ｪ･^)</h2>
 <ul>
 <li>👨‍💻 Actualmente quiero integrarme al mercado laboral</li>
 <li>🤓 Busco ser <strong> desarrolladora de software</strong>, en especial de moviles</li>
@@ -57,6 +58,12 @@ alt="Java">
 </ul>
 </li>
 </ul>
+<h2> // Lenguajes más usados </h2>
+<div style="display:grid;align-items:center;justify-content:center">
+  <img style="height:100%;width:49%;max-width: 10%" 
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-45b&layout=compact&theme=light&langs_count=8&locale=es&hide_title=true">
+</div>
+
 <!---
 
 --->
