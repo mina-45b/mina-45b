@@ -60,8 +60,7 @@ alt="Java">
 </ul>
 <h2> // Lenguajes más usados </h2>
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 10%" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-45b&layout=compact&theme=light&langs_count=8&locale=es&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-45b&layout=compact&theme=light&langs_count=8&locale=es&hide_title=true">
 </div>
 
 <!---
