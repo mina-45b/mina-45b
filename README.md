@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
 <img align="right" width="400" alt="coding girl" src="https://images4.alphacoders.com/135/1358530.jpeg">
-<h1> Sobre mi (^･ｪ･^)</h2>
+<h1> Sobre mi ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 <ul>
 <li>👨‍💻 Actualmente quiero integrarme al mercado laboral</li>
 <li>🤓 Busco ser <strong> desarrolladora de software</strong>, en especial de moviles</li>
