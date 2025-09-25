@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <img align="right" width="400" alt="coding girl" src="https://images4.alphacoders.com/135/1358530.jpeg">
 <h1> Sobre mi ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 <ul>
-<li>👨‍💻 Actualmente quiero integrarme al mercado laboral</li>
-<li>🤓 Busco ser <strong> desarrolladora de software</strong>, en especial de moviles</li>
+<li>👨‍💻 Actualmente busco integrarme al mercado laboral</li>
+<li>🤓 Mi objetivo es ser <strong> desarrolladora de software</strong></li>
 <li>🎓 He cursado un <strong>grado superior en Desarrollo de Aplicaciones</strong></li>
 </ul>
 <h2>  // Aptitudes  </h2>
@@ -31,9 +31,15 @@ Here are some ideas to get you started:
 alt="Java">
 <ul>
 <li>
-<h4> actualmente aprendo</h4>
+<h4> Aprendizaje independiente </h4>
+<p href="https://www.efundae.es/course/index.php?categoryid=236"> Curso Desarrrolo Web. Framework por Fundae</p>
+<ul>
+<li>
+<h4>Interés en aprender </h4>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
 <img src="https://img.shields.io/badge/Kotlin-hotpink.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="kotlin">
+</li>
+</ul>
 </li>
 </ul>
 </li>
