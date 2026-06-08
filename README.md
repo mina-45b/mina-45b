@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
   <p align="center"><!-- Optional banner goes here--> </p>
 <div>
-<img align="right" width="400" alt="coding girl" src="https://drive.google.com/file/d/1U4k7b8HwidXyR7eg9RvEQiTiYCsFuwkP/view?usp=sharing">
+<img align="right" width="400" alt="coding girl" src="coding-girl.jpeg">
 <h1> Sobre mi ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
 <ul>
 <li>👨‍💻 Actualmente busco integrarme al mercado laboral</li>
