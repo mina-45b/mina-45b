@@ -28,6 +28,7 @@ Actualmente estoy ampliando mis conocimientos mediante proyectos personales y fo
 ### 𖠌 Proyecto Android
 Aplicación Android desarrollada en Java que utiliza Firebase para conectar estudiantes, empresas y centros educativos, simplificando la gestión y búsqueda de oportunidades de prácticas.
 
+![GitHub Repo Card](https://githubcard.com/Bokurai/Proyecto_Talktie.svg)
 
 
 ---
@@ -35,7 +36,7 @@ Aplicación Android desarrollada en Java que utiliza Firebase para conectar estu
 ### ⌨  Proyecto Web
 Viaja+ es un sitio web estático de una agencia de viajes desarrollado como proyecto de demostración para mostrar el uso de Bootstrap 5.3 y sus componentes principales.
 
-![GitHub repo card](https://githubcard.com/g/mUfq4jafEjyk.svg)
+![GitHub Repo Card](https://githubcard.com/mina-45b/viajaBootstrap.svg)
 
 
 ---
@@ -43,6 +44,7 @@ Viaja+ es un sitio web estático de una agencia de viajes desarrollado como proy
 ### 모  Proyecto Java
 Este proyecto implementa un juego Wordle multijugador en Java utilizando la conexión TCP. La estructura del proyecto se organiza en el paquete net, que contiene tres clases principales: ClientTcp, ServerTcp, y ThreadTcp.
 
+![GitHub Repo Card](https://githubcard.com/mina-45b/WordleGameTCP.svg)
 
 ---
 
