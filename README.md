@@ -1,83 +1,97 @@
+<h1 align="center">¡Hola! 𐔌՞. .՞𐦯 Soy Mina</h1>
 
-<!--
-**mina-45b/mina-45b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="coding-girl.jpeg" width="350" alt="Coding Girl">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  모 Desarrolladora de Software Junior • 𖠌 Desarrollo Android • ⌨ Desarrollo Web
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-  <p align="center"><!-- Optional banner goes here--> </p>
-<div>
-<img align="right" width="400" alt="coding girl" src="coding-girl.jpeg">
-<h1> Sobre mi ദ്ദി ˉ͈̀꒳ˉ͈́ )✧</h2>
-<ul>
-<li>👨‍💻 Actualmente busco integrarme al mercado laboral</li>
-<li>🤓 Mi objetivo es ser <strong> desarrolladora de software</strong></li>
-<li>🎓 He cursado un <strong>grado superior en Desarrollo de Aplicaciones</strong></li>
-</ul>
-<h2>  // Aptitudes  </h2>
-<ul>
-<li>
-<h3> Lenguajes de programación</h3>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" 
-alt="Java">
-<ul>
-<li>
-<h4> Aprendizaje independiente </h4>
-<a href="https://www.efundae.es/course/index.php?categoryid=236"> Curso Desarrrolo Web. Framework por Fundae - en curso </a>
-<ul>
-<li>
-<h4> Aprendiendo </h4>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<ul>
-<li>
-<h4>Interés en aprender </h4>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="python">
-<img src="https://img.shields.io/badge/Kotlin-hotpink.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" alt="kotlin">
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<h3>  frameworks &amp; librerías </h3>
-<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-<img src="https://img.shields.io/badge/Room-FFC107?style=for-the-badge&logo=java&logoColor=white" alt="Room">
-<img src="https://img.shields.io/badge/Glide-00C853?style=for-the-badge&logo=google&logoColor=white" alt="Glide">
-</li>
-<li>
-<h3> herramientas </h3>
-  <img src="https://img.shields.io/badge/figma-7434a4?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="figma">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="git">
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-<img src="https://img.shields.io/badge/Canva-FFFFFF?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-<ul>
-</ul>
-</li>
-</ul>
-<h2> // Lenguajes más usados </h2>
-<div style="display:grid;align-items:center;justify-content:center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mina-45b&layout=compact&theme=light&langs_count=8&locale=es&hide_title=true">
-</div>
+# 𑣲 Sobre mí
 
-<!---
+Soy una desarrolladora de software con formación en **Desarrollo de Aplicaciones Multiplataforma** y muchas ganas de seguir aprendiendo y creciendo profesionalmente.
 
---->
-<hr>
-<p><a href="https://github.com/mina-45b">username</a>
-Last Edited on: 05/05/2023 format.</p></div> 
+Actualmente estoy ampliando mis conocimientos mediante proyectos personales y formación continua, con el objetivo de incorporarme al mercado laboral.
+
+-  Técnico Superior en Desarrollo de Aplicaciones y Grado Medio en Sistemas Microinformáticos y Redes
+-  Buscando mi primera oportunidad profesional
+-  Aprendiendo Desarrollo Web
+-  Siempre intentando mejorar con nuevos proyectos
+
+---
+
+# 𑣲  Proyectos destacados
+
+### 𖠌 Proyecto Android
+Aplicación Android desarrollada en Java que utiliza Firebase para conectar estudiantes, empresas y centros educativos, simplificando la gestión y búsqueda de oportunidades de prácticas.
+
+![Visita el respositorio: TalkTie](https://github.com/Bokurai/Proyecto_Talktie)
+
+---
+
+### ⌨  Proyecto Web
+Viaja+ es un sitio web estático de una agencia de viajes desarrollado como proyecto de demostración para mostrar el uso de Bootstrap 5.3 y sus componentes principales.
+
+---
+
+### 모  Proyecto Java
+Este proyecto implementa un juego Wordle multijugador en Java utilizando la conexión TCP. La estructura del proyecto se organiza en el paquete net, que contiene tres clases principales: ClientTcp, ServerTcp, y ThreadTcp.
+
+![GitHub Repo Card](https://githubcard.com/mina-45b/viajaBootstrap.svg?d=ihkENtAo8UO8)
+
+---
+
+# 𑣲 Tecnologías
+
+## ʚɞ Lenguajes
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,js" />
+</p>
+
+## ʚɞ Desarrollo móvil
+
+<p>
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+</p>
+
+## ʚɞ Herramientas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+</p>
+
+---
+
+# 𑣲 Actualmente aprendiendo
+
+-  HTML5
+-  CSS3
+-  JavaScript
+-  Desarrollo Web
+
+---
+
+# 𑣲 Estadísticas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mina-45b&theme=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mina-45b&theme=github" />
+</p>
+
+---
+
+
+
+
+<p align="center">
+.✦ ݁˖ Gracias por visitar mi perfil .✦ ݁˖
+</p>
+
+![GitHubCard](https://githubcard.com/mina-45b.svg)
