@@ -35,7 +35,7 @@ Aplicación Android desarrollada en Java que utiliza Firebase para conectar estu
 ### ⌨  Proyecto Web
 Viaja+ es un sitio web estático de una agencia de viajes desarrollado como proyecto de demostración para mostrar el uso de Bootstrap 5.3 y sus componentes principales.
 
-[![ViajaBootstrap](https://githubcard.com/mina-45b/viajaBootstrap.svg?d=d5NSr9JgtxTe)](https://github.com/mina-45b/viajaBootstrap)
+![GitHub repo card](https://githubcard.com/g/mUfq4jafEjyk.svg)
 
 
 ---
